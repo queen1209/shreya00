@@ -1,8 +1,8 @@
 # shreya00
-<<<<<<< HEAD
-dogs are better than cat.
-=======
+
+cats are better than dogs.
+![Image of cat](catimage.jpg)
 
 
 dogs
->>>>>>> bd8ce1ff3897d81a8e2831690190facceb767597
+
